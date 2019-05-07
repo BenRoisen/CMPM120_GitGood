@@ -3,12 +3,12 @@ X	add content
 X	commit the content
 X	branch & commit more content
 X	merge the branch back to master
-	make new branch & cause merge conflict
-	resolve merge conflict
+X	make new branch & cause merge conflict
+X	resolve merge conflict
 	
-	make GitHub account
+X	make GitHub account
 	
-	make remote repository on GitHub
+X	make remote repository on GitHub
 		make changes
 		upload branches other than master
 		make a change through GitHub & download to local machine
