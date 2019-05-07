@@ -13,10 +13,10 @@ X		make changes
 X		upload branches other than master
 X		make a change through GitHub & download to local machine
 	
-	look up an open-source project
-		check out current issues
-		how do resolve pull requests?
-		how are contributions evaluated?
-		how is community organized?
-		how is repository/project organized?
-	write-up for above questions
+X	look up an open-source project
+X		check out current issues
+X		how do resolve pull requests?
+X		how are contributions evaluated?
+X		how is community organized?
+X		how is repository/project organized?
+X	write-up for above questions
