@@ -1,8 +1,8 @@
 X	initialize repository
 X	add content
-	commit the content
-	branch & commit more content
-	merge the branch back to master
+X	commit the content
+X	branch & commit more content
+X	merge the branch back to master
 	make new branch & cause merge conflict
 	resolve merge conflict
 	
