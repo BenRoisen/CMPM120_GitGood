@@ -1,0 +1,22 @@
+X	initialize repository
+X	add content
+	commit the content
+	branch & commit more content
+	merge the branch back to master
+	make new branch & cause merge conflict
+	resolve merge conflict
+	
+	make GitHub account
+	
+	make remote repository on GitHub
+		make changes
+		upload branches other than master
+		make a change through GitHub & download to local machine
+	
+	look up an open-source project
+		check out current issues
+		how do resolve pull requests?
+		how are contributions evaluated?
+		how is community organized?
+		how is repository/project organized?
+	write-up for above questions
