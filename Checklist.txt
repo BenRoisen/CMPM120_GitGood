@@ -10,8 +10,8 @@ X	make GitHub account
 	
 X	make remote repository on GitHub
 X		make changes
-		upload branches other than master
-		make a change through GitHub & download to local machine
+X		upload branches other than master
+X		make a change through GitHub & download to local machine
 	
 	look up an open-source project
 		check out current issues
