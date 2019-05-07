@@ -9,7 +9,7 @@ X	resolve merge conflict
 X	make GitHub account
 	
 X	make remote repository on GitHub
-		make changes
+X		make changes
 		upload branches other than master
 		make a change through GitHub & download to local machine
 	
